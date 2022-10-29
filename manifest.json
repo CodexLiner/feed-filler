@@ -14,7 +14,7 @@
       "48": "rss.png"
    },
    "manifest_version": 2,
-   "name": "Feed Filler",
+   "name": "Feed Filler by Paras ",
    "offline_enabled": true,
    "permissions": [ "scripting" ,"tabs" ,"storage" ,"activeTab" ],
    "version": "1.0"

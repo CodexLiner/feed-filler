@@ -1,0 +1,21 @@
+{
+   "background": {
+      "scripts": [ "jquery.js", "popup.js" ]
+   },
+   "browser_action": {
+      "default_icon": "rss.png",
+      "default_popup": "popup.html"
+   },
+   "description": "This extension will help delvelopers to fill random values in the form",
+   "icons": {
+      "128": "rss.png",
+      "16": "rss.png",
+      "32": "rss.png",
+      "48": "rss.png"
+   },
+   "manifest_version": 2,
+   "name": "Feed Filler",
+   "offline_enabled": true,
+   "permissions": [ "scripting" ,"tabs" ,"storage" ,"activeTab" ],
+   "version": "1.0"
+}
